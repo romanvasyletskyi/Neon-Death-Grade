@@ -1,36 +1,50 @@
 # Neon Death Grade
 
-A personal Project Zomboid Build 42 mod inspired by Hotline Miami.
+A personal Project Zomboid Build 42 mod inspired by arcade-style scoring systems and Hotline Miami.
+
+The mod adds a custom death screen, scoring categories, grade evaluation and combo-based gameplay feedback.
 
 ## Demo
 
-Screenshot of the death screen:
+![Neon Death Grade death screen](media/DeathScreen.png)
 
-![Neon Death Grade death screen](DeathScreen.png)
+Short gameplay clip showing the player death and transition to the custom death screen:
 
-Short video showing the player death and the death screen transition:
-
-[Watch demo video](DeathScreenDemo.mp4)
+[Watch demo video](media/DeathScreenDemo.mp4)
 
 ## Features
+
 - Custom death screen
 - Score and grade system
 - Combo counter UI
-- UI animations and positioning
 - Gameplay scoring categories
+- UI animations and positioning
 - Sound and visual feedback
+- Custom score calculation logic
+- Grade evaluation system
 
 ## My role
-I designed the concept, gameplay requirements and UI behavior.
 
-I tested implementations, identified bugs, adjusted mechanics and iterated on the mod based on in-game results.
+This was a personal AI-assisted modding project.
+
+My role included:
+
+- designing the concept and gameplay requirements
+- defining how the scoring and grade systems should work
+- designing UI behavior and layout
+- testing implementations in-game
+- identifying bugs and gameplay issues
+- iterating on mechanics and presentation
+- adjusting balance values and scoring rules
 
 The technical implementation was created with extensive AI assistance.
 
 ## Tech
+
 - Lua
 - Project Zomboid Build 42
 - AI-assisted development
 
 ## Status
+
 Prototype / work in progress.
