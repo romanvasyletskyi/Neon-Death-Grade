@@ -1,4 +1,0 @@
-PRIVATE TEST BUILD ONLY.
-
-Contains extracted/reworked Hotline Miami 2 font assets. Do not upload this
-version to Steam Workshop or redistribute it publicly.
