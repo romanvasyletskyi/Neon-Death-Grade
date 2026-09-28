@@ -2,6 +2,10 @@
 
 A personal Project Zomboid Build 42 mod inspired by Hotline Miami.
 
+## Screenshot
+
+![Neon Death Grade death screen](DeathScreen.png)
+
 ## Features
 - Custom death screen
 - Score and grade system
