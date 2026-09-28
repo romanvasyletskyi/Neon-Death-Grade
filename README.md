@@ -6,11 +6,11 @@ The mod adds a custom death screen, scoring categories, grade evaluation and com
 
 ## Demo
 
-![Neon Death Grade death screen](media/DeathScreen.png)
+![Neon Death Grade death screen](docs/DeathScreen.png)
 
 Short gameplay clip showing the player death and transition to the custom death screen:
 
-[Watch demo video](media/DeathScreenDemo.mp4)
+[Watch demo video](docs/DeathScreenDemo.mp4)
 
 ## Features
 
