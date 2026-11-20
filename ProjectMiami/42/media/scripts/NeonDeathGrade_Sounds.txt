@@ -1,0 +1,406 @@
+module Base
+{
+    sound NeonDeathGradeMusic
+    {
+        category = Music,
+        is3D = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/NeonDeathMusic.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeHotlineMenu
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = true,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/HotlineMenu.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeLoadingInterlude
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = true,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/LoadingInterlude.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeWakeFlatline
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/WakeFlatline.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeWakeDeepCover
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/WakeDeepCover.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeLocationKnockKnock
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/LocationKnockKnock.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeLocationMiamiDisco
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/LocationMiamiDisco.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeLocationFlatline
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/LocationFlatline.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeLocationHotline
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/LocationHotline.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeLocationParis
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/LocationParis.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeLocationInnerAnimal
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/LocationInnerAnimal.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeLocationTechnoir
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/LocationTechnoir.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeLocationRemorse
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/LocationRemorse.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeLocationBloodline
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/LocationBloodline.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeLocationRollerMobster
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/LocationRollerMobster.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeLocationRun
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/LocationRun.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeLocationLePerv
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/LocationLePerv.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeLocationTheWayHome
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/LocationTheWayHome.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeLocationAbyss
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/LocationAbyss.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeLocationBlackTar
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/LocationBlackTar.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeCalmRust
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/CalmRust.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeCalmDagUnenge
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/CalmDagUnenge.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeCalmMissMinnie
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/CalmMissMinnie.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeCalmCrystals
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/CalmCrystals.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeCombatSexualizer
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/CombatSexualizer.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeCombatDivide
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/CombatDivide.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeCombatDecadeDance
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/CombatDecadeDance.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeCombatNewWaveHookers
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/CombatNewWaveHookers.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+
+    sound NeonDeathGradeFutureClub
+    {
+        category = Music,
+        master = Primary,
+        is3D = false,
+        loop = true,
+        clip
+        {
+            file = media/sound/NeonDeathGrade/FutureClub.ogg,
+            distanceMax = 0,
+            volume = 1.0,
+        }
+    }
+}
